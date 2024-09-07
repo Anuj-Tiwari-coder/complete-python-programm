@@ -1,0 +1,1 @@
+This is truncate()function which helps to add only
